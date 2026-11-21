@@ -1,0 +1,30 @@
+{
+  "name": "tempolor",
+  "displayName": "TemPolor (useapi.net)",
+  "description": "Hosted TemPolor MCP server by useapi.net (17 tools): make royalty-free songs with vocals in TemPolor v4.8 and instrumentals with i4, sung by an artist voice or a voice you clone or built on your MIDI file, download mp3, wav or stems and split your own audio into stems, on your own TemPolor accounts. Third-party paid service, not affiliated with TemPolor.",
+  "author": {
+    "name": "useapi.net",
+    "url": "https://useapi.net"
+  },
+  "homepage": "https://useapi.net/docs/api-tempolor-v1/mcp",
+  "repository": "https://github.com/useapi/tempolor-api",
+  "license": "MIT",
+  "keywords": [
+    "tempolor",
+    "music",
+    "song",
+    "instrumental",
+    "voice-cloning",
+    "mcp",
+    "useapi"
+  ],
+  "mcpServers": {
+    "useapi-tempolor": {
+      "type": "http",
+      "url": "https://api.useapi.net/v1/tempolor/mcp",
+      "headers": {
+        "Authorization": "Bearer ${USEAPI_TOKEN}"
+      }
+    }
+  }
+}

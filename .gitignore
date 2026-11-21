@@ -1,0 +1,18 @@
+node_modules
+.vscode
+.env
+
+# Downloaded / generated media + local input files you supply
+*.mp3
+*.wav
+*.m4a
+*.flac
+*.zip
+*.mid
+*.midi
+
+# Run logs / scratch
+*_results.txt
+*_errors.txt
+result.json
+_*.*

@@ -1,0 +1,9 @@
+{
+  "name": "tempolor-api",
+  "version": "1.0.0",
+  "description": "Runnable Node.js example for the TemPolor API by useapi.net: royalty-free i4 instrumentals and v4.8 songs on your TemPolor subscription, downloaded as mp3.",
+  "author": "useapi.net",
+  "license": "MIT",
+  "type": "module",
+  "homepage": "https://useapi.net/docs/api-tempolor-v1"
+}
