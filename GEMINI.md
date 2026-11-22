@@ -1,6 +1,6 @@
 # TemPolor via useapi.net
 
-This extension connects the hosted useapi.net TemPolor MCP server (`useapi-tempolor`, 17 tools). The tools make royalty-free songs with vocals in TemPolor v4.8 (from the user's lyrics or lyrics TemPolor writes, sung by an artist voice or a cloned voice, or built on a MIDI file) and instrumentals with i4 in the key, tempo and chords the user sets, download tracks as mp3, wav or stems, split the user's own audio into stems and manage tracks, voices and MIDI files, on the user's own TemPolor accounts.
+This extension connects the hosted useapi.net TemPolor MCP server (`useapi-tempolor`, 20 tools). The tools make royalty-free songs with vocals in TemPolor v4.8 (from the user's lyrics or lyrics TemPolor writes, sung by an artist voice or a cloned voice, or built on a MIDI file) and instrumentals with i4 in the key, tempo and chords the user sets, download tracks as mp3, wav or stems, split the user's own audio into stems and manage tracks, voices and MIDI files, on the user's own TemPolor accounts.
 
 - Endpoint: https://api.useapi.net/v1/tempolor/mcp (Streamable HTTP), authorized with the user's useapi.net API token in `USEAPI_TOKEN`.
 - Before the tools work, the user needs a useapi.net API token (https://useapi.net/docs/start-here/setup-useapi) and a TemPolor account connected at https://useapi.net/docs/start-here/setup-tempolor.
