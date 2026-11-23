@@ -62,6 +62,8 @@ node ./instrumental.mjs "Lo-fi hip hop with dusty piano and soft drums" A:minor 
 
 ## MCP server
 
+[![TemPolor MCP connector](https://glama.ai/mcp/connectors/net.useapi/tempolor/badges/score.svg)](https://glama.ai/mcp/connectors/net.useapi/tempolor)
+
 useapi.net also runs a hosted [Model Context Protocol](https://modelcontextprotocol.io) server for TemPolor, so an AI assistant such as the Claude app, ChatGPT, Claude Code, Cursor or VS Code Copilot can make music on your TemPolor accounts. It has 20 tools: write songs with vocals in TemPolor v4.8, from your lyrics or lyrics TemPolor writes, sung by an artist voice or a voice you clone, or built on your MIDI file; make instrumentals with i4 in the key, tempo and chords you set; download every track as mp3, wav or stems; split your own audio into stems; and manage your tracks, voices and MIDI files. Nothing to install or run locally.
 
 - Endpoint: `https://api.useapi.net/v1/tempolor/mcp`
