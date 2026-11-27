@@ -127,6 +127,8 @@ The install asks for your useapi.net API token and keeps it in the system keycha
 
 [useapi.net](https://useapi.net/?utm_source=github.com&utm_medium=referral&utm_campaign=tempolor-api) is a third-party REST API for AI services, not affiliated with TemPolor. The TemPolor API runs on your [TemPolor subscription](https://www.tempolor.com/pricing), so your songs and instrumentals count against your plan's monthly tracks (Ultra has no track limit, though after heavy use TemPolor can limit an account to about 300 songs a day) instead of metered developer-API pricing. See the models and pricing on the [TemPolor API overview](https://useapi.net/docs/api-tempolor-v1?utm_source=github.com&utm_medium=referral&utm_campaign=tempolor-api).
 
+Is TemPolor working right now? See the [status page](https://useapi.net/status?api=tempolor&utm_source=github.com&utm_medium=referral&utm_campaign=tempolor-api).
+
 Visit our [Discord Server](https://discord.gg/w28uK3cnmF) or [Telegram Channel](https://t.me/use_api) for any support questions and concerns.
 
 We regularly post guides and tutorials on the [YouTube Channel](https://www.youtube.com/@useapi-net).
